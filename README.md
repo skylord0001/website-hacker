@@ -1,6 +1,5 @@
 <a href="https://youtu.be/yDhexst-DSI">watch a member coding</a>
 
-<a href="">watch running the .exe</a>
 
 # Website Hacker
 
@@ -11,9 +10,8 @@
 
 #### Follow this steps to install the software
 
-1. git clone this repo
-2. flutter pub get
-3. flutter run
+```git clone --filter=blob:none https://github.com/flutter/samples.git```
+extract to documents folder then create shortlink for website hacker to your desktop
 
 #### Usage Image are shown below
 
