@@ -10,7 +10,7 @@
 
 #### Follow this steps to install the software
 
-go to https://blackstackhub.github.io/website-hacker#download to download
+<a href="website hacker.zip" download="website hacker">download file</a>
 extract to documents folder then create shortlink for website hacker to your desktop
 
 #### Usage Image are shown below
