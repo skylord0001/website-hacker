@@ -1,5 +1,7 @@
 <a href="https://youtu.be/yDhexst-DSI">watch a member coding</a>
 
+<a href="">watch running the .exe</a>
+
 # Website Hacker
 
 <img src="assets/Screenshot (31).png"/>
@@ -10,7 +12,8 @@
 #### Follow this steps to install the software
 
 1. git clone this repo
-2. flutter run
+2. flutter pub get
+3. flutter run
 
 #### Usage Image are shown below
 
